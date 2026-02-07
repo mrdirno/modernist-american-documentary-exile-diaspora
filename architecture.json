@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-american-documentary-exile-diaspora",
+  "title": "The Binder's Slow Poison",
+  "tagline": "A man chases his father's ghost through the documentary fragments of a lost life, uncovering a legacy of exile and a crime washed by the Saronic Gulf.",
+  "target_words": 72671,
+  "actual_words": 72671,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of Legacy",
+    "Documentary as Evidence and Erasure",
+    "Exile and the Unhomely Homeland",
+    "The Sea as Archive and Grave"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Saronic Grudge",
+      "words": 6606
+    },
+    {
+      "ch": 2,
+      "title": "The Patient in the Light",
+      "words": 6606
+    },
+    {
+      "ch": 3,
+      "title": "A Co-Conspirator of Ink",
+      "words": 6606
+    },
+    {
+      "ch": 4,
+      "title": "The Binder's Slow Poison",
+      "words": 6606
+    },
+    {
+      "ch": 5,
+      "title": "A Crime Against the Sea",
+      "words": 6606
+    },
+    {
+      "ch": 6,
+      "title": "Saints in a Cage of Light",
+      "words": 6606
+    },
+    {
+      "ch": 7,
+      "title": "The Map of Dried Blood",
+      "words": 6606
+    },
+    {
+      "ch": 8,
+      "title": "Souvala's Stained Concrete",
+      "words": 6606
+    },
+    {
+      "ch": 9,
+      "title": "The Road of a Clenched Fist",
+      "words": 6606
+    },
+    {
+      "ch": 10,
+      "title": "The Museum of a Paused Life",
+      "words": 6606
+    },
+    {
+      "ch": 11,
+      "title": "The Quiet Thief of Colour",
+      "words": 6606
+    }
+  ]
+}
